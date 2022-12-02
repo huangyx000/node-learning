@@ -1,2 +1,5 @@
 # node-learning
-node服务器开发学习
+
+node 服务器开发学习
+
+npm install nodemon cross-env --save-dev
